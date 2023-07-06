@@ -11,7 +11,7 @@ I'm a Computer Science student from Colombia, passionate about the world of comp
 
 ## 💻 Projects
 
-- **Tic Toe Game:** This is a Python program that allows two players to play the classic game of Tic Tac Toe in a terminal interface. The game is played on a 3x3 grid where players take turns marking X or O on empty cells. The objective is to get three of their marks in a row, either horizontally, vertically, or diagonally.
+- **Tic Tac Toe Game:** This is a Python program that allows two players to play the classic game of Tic Tac Toe in a terminal interface. The game is played on a 3x3 grid where players take turns marking X or O on empty cells. The objective is to get three of their marks in a row, either horizontally, vertically, or diagonally.
 
 Check out my repositories to see more of my projects!
 
